@@ -41,22 +41,22 @@ st.write("---")
 
 kenangan = [
     {
-        "path": "images/fotbem1.jpg",
+        "path": "images/fotbem1.JPG",
         "caption": "😍",
         "lucu": True
     },
     {
-        "path": "images/fotbem2.jpg",
+        "path": "images/fotbem2.JPG",
         "caption": " 🤣",
         "lucu": True
     },
     {
-        "path": "images/fotbem3.jpg",
+        "path": "images/fotbem3.JPG",
         "caption": " 🍕💖",
         "lucu": True
     },
     {
-        "path": "images/fotbem4.jpg",
+        "path": "images/fotbem4.JPG",
         "caption": "Dingin, tapi hatiku hangat karena ada kamu.(apasih) 🏔️🥰",
         "lucu": True
     },    
@@ -66,7 +66,7 @@ kenangan = [
         "lucu": True
     },
     {
-        "path": "images/fotbem6.jpg",
+        "path": "images/fotbem6.JPG",
         "caption": "",
         "lucu": True
     }
