@@ -237,6 +237,8 @@ for item in yulita:
 
 
 st.balloons()
+st.divider()
+st.caption("Made by **Farand Darmika**")
 
 
 
