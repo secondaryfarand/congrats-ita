@@ -6,7 +6,7 @@ from PIL import Image
 
 st.set_page_config (
     page_title= "SELAMAT MENJABAT !!!", 
-    page_icon= ":sparkles:",
+    page_icon= ":sparkles::",
     layout="centered",
     initial_sidebar_state="expanded"
 )
@@ -238,7 +238,7 @@ for item in yulita:
 
 st.balloons()
 st.divider()
-st.caption("Made by **Farand Darmika**")
+st.caption("Made by **Farand Darmika** :sparkles:")
 
 
 
